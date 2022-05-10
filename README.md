@@ -4,7 +4,7 @@ Son kullanıcının uygulamaya girip soruları cevapladığı ve cevapları gön
 Mevcut HTML çalışan örnek uygulama için [tıklayın](https://www.mindset.com.tr/deneme)
 
 ## TASARIM
-- Zeplin uygulamasında tüm ekranların tasarımlarını görebilirsiniz. Davet için zpl://project?pid=624af174dc18db124399b921
+- Zeplin uygulamasında tüm ekranların tasarımlarını görebilirsiniz. Davet için [tıklayın](https://zpl.io/Md7qPxJ)
 - Bu uygulama için öncelik HTML ve CSS olarak tasarım birebir aynısının olması değil. Genel yapının benzemesi yeterli, daha çok ReactJs tarafı bizim için öncelikli. Ancak tasarımı birebir yapabilirseniz bu artı bir değer.
 
 ## İŞ AKIŞI
@@ -260,4 +260,12 @@ Dönen örnek cevap:
 ```json
 ```
 
+## PROJE TESLİMİ
+- Github üzerinde projeyi iletmeniz yeterli.
+- Docker üründe image dosyası olarak paylaşmanız artı bir durum.
+- Gerek görülmesi durumunda kodların anlatımı ve uygulama anlatımını online görüşme ile iletmeniz bekleniyor.
+
+## DESTEK
+
+Tüm sorularınız için deneme@mindset.com.tr email adresinde iletişime geçebilirsiniz.
 
