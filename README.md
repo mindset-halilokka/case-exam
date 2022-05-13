@@ -267,5 +267,5 @@ Dönen örnek cevap:
 
 ## DESTEK
 
-Tüm sorularınız için deneme@mindset.com.tr email adresinde iletişime geçebilirsiniz.
+Tüm sorularınız için emre@mindset.com.tr email adresinde iletişime geçebilirsiniz.
 
